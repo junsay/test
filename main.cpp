@@ -1,20 +1,3 @@
-// Justin Junsay, 171144
-// Patricia Vianne Lee, 171234
-// May X, 2022 |||CHANGE THIS|||
-
-// I/we certify that this submission complies with the DISCS Academic Integrity
-// Policy.
-
-// If I/we have discussed my/our C++ language code with anyone other than
-// my/our instructor(s), my/our groupmate(s), the teaching assistant(s),
-// the extent of each discussion has been clearly noted along with a proper
-// citation in the comments of my/our program.
-
-// If any C++ language code or documentation used in my/our program
-// was obtained from another source, either modified or unmodified, such as a
-// textbook, website, or another individual, the extent of its use has been
-// clearly noted along with a proper citation in the comments of my/our program.
-
 #include <SFML/Graphics.hpp>
 #include <cmath>
 #include <fstream>
